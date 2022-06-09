@@ -3,8 +3,6 @@
 #include "Game.hpp"
 #include "Assassin.hpp"
 
-using namespace std;
-
 namespace coup {
     class Duke : public Player {
         private:
